@@ -4,17 +4,22 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+    <meta name="description" content="{{ .Site.Params.description }}">
     <link rel="stylesheet" href="{{ "css/styles.css" | relURL }}">
   </head>
   <body>
     <header class="site-header">
       <div class="wrap">
-        <h1><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
+        <h1><a href="{{ "/" | relURL }}">🌴 {{ .Site.Title }}</a></h1>
+        <p style="margin: 0.5rem 0 0 0; opacity: 0.95; font-size: 1.1rem;">{{ .Site.Params.description }}</p>
       </div>
     </header>
     <main class="wrap">{{ block "main" . }}{{ end }}</main>
     <footer class="site-footer">
-      <div class="wrap">© {{ now.Format "2006" }} {{ .Site.Title }}</div>
+      <div class="wrap">
+        <p style="margin: 0;">🏝️ {{ .Site.Title }} - Your guide to remote work paradise</p>
+        <p style="margin: 0.5rem 0 0 0; opacity: 0.9; font-size: 0.9rem;">© {{ now.Format "2006" }} All rights reserved</p>
+      </div>
     </footer>
   </body>
 </html>
