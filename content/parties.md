@@ -6,28 +6,28 @@ There is a more or less fixed schedule for the parties on the island. The big on
 
 ## Monday
 
-Pub Quiz at the Irish Embassy
-Irie Bar - Live music
+Pub Quiz at the [Irish Embassy](https://www.google.com/maps/search/?api=1&query=The+Irish+Embassy+Pub+Koh+Lanta)
+[Irie Bar](https://www.google.com/maps/search/?api=1&query=Irie+Bar+Restaurant+Koh+Lanta) - Live music
 
 ## Tuesday
 
-Pangea, starts at 21:00.
+[Pangea](https://www.google.com/maps/search/?api=1&query=Pangea+Beach+Bar+Koh+Lanta), starts at 21:00.
 
 ## Wednesday
 
-Fusion Bar, starts at 21:00.
+[Fusion Bar](https://www.google.com/maps/search/?api=1&query=Fusion+Bar+Koh+Lanta), starts at 21:00.
 
 ## Thursday
 
-Ozone Bar, starts at 22:00 until 3 AM.
+[Ozone Bar](https://www.google.com/maps/search/?api=1&query=The+Ozone+Beach+Bar+Club+Koh+Lanta), starts at 22:00 until 3 AM.
 
 ## Friday
 
 ## Saturday
 
-First karaoke at Free Descent and then Korner Bar. The party usually starts around 22:00 and the bar closes at 02:45. Usually people move from Free Descent to Korner around midnight.
+First karaoke at [Free Descent](https://www.google.com/maps/search/?api=1&query=Free+Descent+Bar+Koh+Lanta) and then [Korner Bar](https://www.google.com/maps/search/?api=1&query=Korner+Bar+Koh+Lanta). The party usually starts around 22:00 and the bar closes at 02:45. Usually people move from Free Descent to Korner around midnight.
 
 ## Sunday
 
-- Horizon Bar
-- Pangea
+- [Horizon Bar](https://www.google.com/maps/search/?api=1&query=Horizon+Bungalow+Beach+Bar+Klong+Nin+Koh+Lanta)
+- [Pangea](https://www.google.com/maps/search/?api=1&query=Pangea+Beach+Bar+Koh+Lanta)
