@@ -8,3 +8,5 @@ title: "Accommodation"
 4. Grand House
 5. Baan Nok
 6. The travelers friend bungalows
+
+- Baan long haad
