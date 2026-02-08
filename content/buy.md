@@ -18,6 +18,10 @@ title: "Where to buy"
 
 See the [Food page](/food) for where to buy food items and birthday cakes.
 
+## Coffee
+
+See the [Coffee page](/coffee) for where to buy coffee beans and equipment.
+
 ## Photos
 
 [Kodak shop](https://maps.app.goo.gl/gEyhtv4mticYgxL68) is the place to go for passport photos and for visa extenstions.
